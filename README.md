@@ -95,19 +95,6 @@
 
 ###
 
-### 💡 I'm Currently Focused On
-
-- 🤖 Building **AI-powered multi-agent systems** with LangGraph & Gemini
-- 🗣️ Exploring **voice-first AI architectures** (STT → LLM → TTS pipelines)
-- 🏗️ Architecting **full-stack applications** with modern frameworks
-- 🏒 Automating **real-time data pipelines** for sports analytics
-
-###
-
----
-
-###
-
 ### 🔥 My Stats
 
 <div align="center">
