@@ -35,32 +35,6 @@
 
 ###
 
----
-
-###
-
-### 🔭 What I've Built
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[MirrorMe](https://github.com/kumarharsh02/Ai-Cloth_final)** | AI-powered virtual clothing try-on platform with body-size detection, background replacement & Gemini-powered garment overlay | `Python` `FastAPI` `MongoDB` `Google Gemini` `MediaPipe` `OpenCV` `Docker` |
-| **[Aarogya — Mykare Health AI](https://github.com/kumarharsh02/mykare)** | AI voice assistant for healthcare appointment management — speech-to-text, LLM reasoning, text-to-speech with a photorealistic avatar | `Python` `LiveKit` `Deepgram` `LLaMA 3.1` `Next.js` `React` `TypeScript` `Tailwind` `SQLAlchemy` |
-| **[Paper Flow](https://github.com/kumarharsh02/paper_flow_rishram)** | LangGraph multi-agent system that generates full research papers from a topic with domain-aware section design, drag-and-connect flow UI, and Turnitin-optimized output | `Python` `LangGraph` `FastAPI` `React` `Supabase` `PostgreSQL` `Razorpay` |
-| **[Medical Store Management](https://github.com/kumarharsh02/medical_store_management)** | Full-featured pharmacy management system with inventory, POS, sales invoicing, role-based dashboards (Admin/Pharmacist), and automated reporting | `PHP` `MySQL` `HTML/CSS` `XAMPP` |
-| **[Role-Based Access Control](https://github.com/kumarharsh02/role-based-access-control)** | Complete RBAC implementation with CodeIgniter 4 — users, roles, permissions, Super Admin bypass, dynamic sidebar, and dark-themed dashboard | `CodeIgniter 4` `PHP` `MySQL` `Tailwind CSS` |
-| **[Ice Hockey Data Pipeline](https://github.com/kumarharsh02/ice-hockey-app-python-scripts)** | Automated EIHL data scraping pipeline syncing fixtures, live scores, player stats, rosters & news into Strapi CMS and MySQL | `Python` `BeautifulSoup` `MySQL` `Strapi API` |
-| **[Multi-User Chat Application](https://github.com/kumarharsh02/MultiUser_Chat_Application)** | Real-time multi-user chat with Java socket programming, multithreaded server, JDBC-backed auth, and Swing GUI | `Java` `Sockets` `JDBC` `MySQL` `Swing` |
-| **[Dino T-Rex Simulation](https://github.com/kumarharsh02/Dino_Game)** | Multi-agent T-Rex game simulation — a VillainAgent generates obstacles while a DinoAgent reacts, built both from-scratch and with JADE framework + JavaFX GUI | `Java` `JADE` `JavaFX` |
-| **[Tower of Hanoi](https://github.com/kumarharsh02/Tower_Of_Hanoi)** | Interactive browser-based Tower of Hanoi puzzle with configurable discs, move counter, and auto-solver demonstrating the recursive algorithm | `HTML` `CSS` `JavaScript` `jQuery` |
-| **[Login System](https://github.com/kumarharsh02/login_system)** | PHP/MySQL user registration and authentication system with session management | `PHP` `MySQL` `HTML` |
-| **[Backend CMS](https://github.com/kumarharsh02/backend-cms)** | Strapi headless CMS backend with multi-database support (SQLite/MySQL/PostgreSQL) and auto-generated admin panel | `JavaScript` `Strapi v5` `Node.js` |
-
-###
-
----
-
-###
-
 ### 🛠 Languages & Tools
 
 <div align="left">
